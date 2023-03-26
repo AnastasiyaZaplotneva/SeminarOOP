@@ -15,6 +15,7 @@ public class Human {
         lastSkate = skate;
     }
 
+
     void drive(Bicycle bicycle) {
         bicycle.run();
         lastBicycle = bicycle;
